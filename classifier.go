@@ -35,9 +35,9 @@ import (
 	"sync"
 	"unicode"
 
-	"github.com/google/licenseclassifier/licenses"
-	"github.com/google/licenseclassifier/stringclassifier"
-	"github.com/google/licenseclassifier/stringclassifier/searchset"
+	"github.com/bugfender-contrib/licenseclassifier/licenses"
+	"github.com/bugfender-contrib/licenseclassifier/stringclassifier"
+	"github.com/bugfender-contrib/licenseclassifier/stringclassifier/searchset"
 )
 
 // DefaultConfidenceThreshold is the minimum confidence percentage we're willing to accept in order

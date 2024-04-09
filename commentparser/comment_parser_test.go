@@ -18,8 +18,8 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/bugfender-contrib/licenseclassifier/commentparser/language"
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/licenseclassifier/commentparser/language"
 )
 
 const (

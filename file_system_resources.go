@@ -15,7 +15,7 @@
 package licenseclassifier
 
 import (
-	"github.com/google/licenseclassifier/licenses"
+	"github.com/bugfender-contrib/licenseclassifier/licenses"
 )
 
 const (

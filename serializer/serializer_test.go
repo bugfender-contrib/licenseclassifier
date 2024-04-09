@@ -26,8 +26,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/google/licenseclassifier"
-	"github.com/google/licenseclassifier/stringclassifier/searchset"
+	"github.com/bugfender-contrib/licenseclassifier"
+	"github.com/bugfender-contrib/licenseclassifier/stringclassifier/searchset"
 )
 
 var (
